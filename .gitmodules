@@ -1,0 +1,3 @@
+[submodule "a_common_module"]
+	path = a_common_module
+	url = https://github.com/udothemath/a_common_module
